@@ -37,8 +37,8 @@ Includes:
 ### 1️⃣ YOLO Detection
 Cars and pedestrians detected using YOLOv8.
 
-![YOLO Detection - Cars](YOLO detected objects (cars).png)
-![YOLO Detection - Person](detected person.png)
+![YOLO Detection - Cars](YOLO%20detected%20objects%20(cars)%20.png)
+
 
 ---
 
