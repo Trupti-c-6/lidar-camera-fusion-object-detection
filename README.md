@@ -87,7 +87,7 @@ Projection of LiDAR clusters to 2D image plane and IoU matching.
 
 ## 📄 Full Project Report
 
-[Click here to view detailed report](report infosys - Copy (2) (1).pdf)
+[Click here to view detailed report](Report)
 
 ---
 
