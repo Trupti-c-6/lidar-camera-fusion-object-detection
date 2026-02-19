@@ -45,16 +45,16 @@ Cars and pedestrians detected using YOLOv8.
 ### 2️⃣ LiDAR Clustering
 Point cloud processing and cluster extraction.
 
-![LiDAR Processing Example](PE 2.png)
-![LiDAR Cluster Output](PE4.png)
+
+![LiDAR Cluster Output](lidarclusters)
 
 ---
 
 ### 3️⃣ IoU Matching
 Projection of LiDAR clusters to 2D image plane and IoU matching.
 
-![IoU Table](IOU table.png)
-![Overlap Results](overlap results.png)
+![IoU Table](IOU%20table.png)
+![Overlap Results](overlap%20results.png)
 
 ---
 
